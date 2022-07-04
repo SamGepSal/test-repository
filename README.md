@@ -13,3 +13,5 @@ bla bla bla this is new changes for my first-repository
 
 This is a new string!!!
 This is a new string!!!
+
+pull request how to do
